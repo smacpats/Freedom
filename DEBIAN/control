@@ -1,0 +1,8 @@
+Package: io.smacpats.freedom
+Name: Freedom
+Version: 0.1.3
+Architecture: iphoneos-arm
+Conflicts: com.thireus.untrustedhostsblockerexperimental, com.reddestdream.minimalhostsblocker, com.thireus.untrustedhostsblockerlight, com.thireus.untrustedhostsblocker, com.myrepospace.reddestdream.minimal, com.myrepospace.basic.basic
+Description: Freedom™
+Author: Smacpats
+Section: Tweaks

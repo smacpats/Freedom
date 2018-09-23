@@ -1,0 +1,29 @@
+#MHB7
+127.0.0.1		localhost
+255.255.255.255 broadcasthost
+::1				localhost
+
+:: xarold.com
+:: repo.hackyouriphone.org
+:: hackyouriphone.org
+:: repo.xarold.com
+:: repo.biteyourapple.net
+:: biteyourapple.net
+:: julio.xarold.com
+:: iphonecake.com
+:: cydia.iphonecake.com
+:: kiiimo.org
+:: cydia.kiiimo.org
+:: sinfuliphonerepo.com
+0 xarold.com
+0 repo.hackyouriphone.org
+0 hackyouriphone.org
+0 repo.xarold.com
+0 repo.biteyourapple.net
+0 biteyourapple.net
+0 julio.xarold.com
+0 iphonecake.com
+0 cydia.iphonecake.com
+0 kiiimo.org
+0 cydia.kiiimo.org
+0 sinfuliphonerepo.com
