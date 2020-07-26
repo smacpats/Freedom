@@ -1,5 +1,9 @@
 # Freedom
 
+Joke tweak from 2018 designed to prank people who pirate tweaks. 
+
+
+
 Anti-piracy tweak: freedom. 
 
 Used source of minimal hosts blocker to help create it. 
